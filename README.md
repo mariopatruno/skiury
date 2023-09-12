@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skiury
+- 👋 Hi, I’m @mariopatruno
 - 👀 I’m interested in programming, hardware, music and gym.
 - 🌱 I’m currently learning Git fundamentals and ES6 - Typescript.
 - 💞️ I’m looking to collaborate on nothing.
